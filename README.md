@@ -1,16 +1,30 @@
 ## Hi there 👋
+### I'm Abhineet R! 👋
 
-<!--
-**abhineetr10/abhineetr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Computer Science Engineering Student** dedicated to building impactful software and solving complex problems. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Pursuing a B.Tech in **Computer Science and Engineering**
+* 💡 Interested in **Web Development / AI-ML / Cloud Computing / Mobile Apps**
+* 🌱 Currently learning **System Design / Data Structures & Algorithms /**
+* ✍️ I love building projects that solve real-world problems.
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, Java, C++, JavaScript
+* **Frameworks/Libraries:** React, Node.js
+* **Databases/Tools:** Git, GitHub, SQL, VS Code
+
+### 📈 Current Focus
+
+* 🧠 Practicing DSA problems on **LeetCode** and **HackerRank**
+* 🛠️ Actively working on a **Local Stock Research Agent** project
+
+### 🤝 Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/abhineet-r-7707b63bb/)
+* [Email](abhineetr29@gmail.com)
+
+
+
